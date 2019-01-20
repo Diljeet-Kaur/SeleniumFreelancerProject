@@ -1,6 +1,6 @@
-# Multi-Files-Parser
-Multi-File Parser is having ability to parse XML, JSON, XLS and CSV. It is written on top of various industry standard parsers.
-The API is **simple to use**, independent in nature and is written to **perform and scale**.
+# Cost Calculator Automation 
+Cost Calculator automation is a tool to automate on user-experience using selenium to loop through all the given products on the portal and find their shipping cost against different destinations.
+The API is **simple to use**, independent in nature and is written to **perform and scale**. It uses Google spreadsheet for input/output and the google REST APIs are secured using OAUTH 2.0.
 
 - It is written using Strategy so new strategies i.e. Parsers for new formats can be added adhering Single Responsibility.
 - Ability to read files from a directory or File[].
@@ -10,4 +10,4 @@ The API is **simple to use**, independent in nature and is written to **perform 
 - Spring Support
 
 ##Usage
-Simple usage with a single line of code.
+Simple usage with a single line of code.git
